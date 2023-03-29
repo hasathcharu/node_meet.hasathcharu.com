@@ -1,0 +1,10 @@
+DB=<DB_NAME>
+USERDB=<DB_USERNAME>
+PASS=<DB_PASSWORD>
+SQL_PORT=
+SESSION_SECRET=
+NODE_ENV=
+ZOOM_AUTH=<API_KEY_FOR_ZOOM_WEBHOOK>
+PORT=<NODE_APP_PORT>
+
+Please use the above format to create the env file in your environment.
